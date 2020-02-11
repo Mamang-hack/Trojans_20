@@ -96,7 +96,7 @@ _______█▒▒▒▒▒████__██        Thanks for mastah Q
 _______█▒██▒██████▒█        ;Mr.D4N ;P30N9 ;Kousuke ;AnggDyn
 _______█▒███▒▒▒█████         Thanks for Team Q
 _____█▒████▒▒▒▒████          _BIRD ARMY SQUAD_
-______█▒███▒██████__. \n
+______█▒███▒██████__. \n     [!]Do'a in gua supaya dapet Jodoh!
 	usage : python3 Jones.py [-s] [-p] [-t]
 	-h : help
 	-s : server ip
